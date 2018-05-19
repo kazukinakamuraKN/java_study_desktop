@@ -19,7 +19,7 @@ public class Main {
 	String s = new String();
 	//int i = new int();
 	Integer i = new Integer(1);
-	System.out.println(s);
+	System.out.println(s + i);
 	}
 
 }
